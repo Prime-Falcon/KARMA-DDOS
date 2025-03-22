@@ -82,6 +82,9 @@ unzip KARMA-DDOS.zip
 cd KARMA-DDOS
 python3 setup.py
 
+Run
+python3 main.py
+
 ```
 
 ## Example
