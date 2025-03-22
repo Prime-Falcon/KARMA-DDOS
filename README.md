@@ -72,6 +72,17 @@ OR
 
 ```
 
+## Usage on Cloud Shell
+```sh
+You must use Python 3.9 or higher
+
+git clone https://github.com/Prime-Falcon/KARMA-DDOS.git
+unzip KARMA-DDOS.zip
+cd KARMA-DDOS
+python3 setup.py
+
+```
+
 ## Example
 ```sh
 Use DDoS Panel   : python3 main.py
